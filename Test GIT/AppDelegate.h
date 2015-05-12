@@ -12,6 +12,9 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
+//Balaji
+@property (strong, nonatomic) UIButton *btnLogin;
+@property (strong, nonatomic) UIButton *btnForgot;
 
 @end
 
