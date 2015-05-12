@@ -13,5 +13,8 @@
 @property (strong, nonatomic) UIWindow *window;
 
 
+@property (strong, nonatomic) UIButton *btnYes;
+@property (strong, nonatomic) UIButton *btnNo;
+
 @end
 
